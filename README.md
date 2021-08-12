@@ -2,6 +2,23 @@
 
 Written using `React`,`Redux-thunk`, `Bootstrap`, `Sass`, `Express`.
 
+### Task
+
+Draw a table with server data. The front requests the server's data for display. Implement sorting + paging + filter. Sources data:
+
+| id  | name | value |
+| ------------- | ------------- | ------------- |
+| 1  | AAA  | 1.02 |
+| 2  | AAB  | 1.5 |
+| 3  | AAC  | 2 |
+| 4  | AAD  | 2 |
+| 5  | AAE  | 1.9 |
+| 6  | AAF  | 1.53 |
+| 7  | AAG  | 1.6 |
+| 8  | AAH  | 1.46 |
+| 9  | AAI  | 1.01 |
+| 10  | AAJ  | 1.08 |
+
 ## Requirements
 
 You will need the following things properly installed on your computer:
